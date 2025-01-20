@@ -1,0 +1,6 @@
+@danh_gia_csharp_HostAddress = http://localhost:5245
+
+GET {{danh_gia_csharp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
